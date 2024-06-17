@@ -16,4 +16,4 @@ Para este desafío creé un notebook de Jupyter, llamado `desafio1.ipynb`, ubica
 
 En el segundo desafío hay que implementar el método de "outlier pooling" en una red profunda (por ejemplo, ResNet-18). Se pueden encontrar más detalles sobre el desafío en los archivos `Enunciado 2.pdf` y `Ren_et_al_2021.pdf`, ambos ubicados en el directorio [resources](./resources/).
 
-Mi propuesta de implementación e integración con ResNet-18 están en el script `desafio2.py`, ubicado en el directorio [models](./models/).
+Mis propuestas de implementación e integración con ResNet-18 están en el script `desafio2.py`, ubicado en el directorio [models](./models/).
