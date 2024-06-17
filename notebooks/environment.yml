@@ -1,0 +1,9 @@
+name: deepagro-desafio1
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - ipykernel
+  - ipywidgets
+  - conda-forge::ydata-profiling
