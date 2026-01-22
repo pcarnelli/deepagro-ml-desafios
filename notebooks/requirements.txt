@@ -76,7 +76,7 @@ typeguard==4.2.1
 typing_extensions==4.11.0
 tzdata==2023.3
 unicodedata2==15.1.0
-urllib3==2.2.1
+urllib3==2.6.3
 visions==0.7.6
 wcwidth==0.2.5
 wheel==0.43.0
